@@ -42,7 +42,7 @@ To get this project up and running on your local machine, follow these steps.
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/AryanParishwad/Driver-Drowsiness-Detection.git
+git clone https://github.com/Dhruv27166/Driver-Drowsiness-Detection.git
 cd Driver-Drowsiness-Detection
 ```
 
